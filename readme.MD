@@ -7,12 +7,10 @@
 
 Software developer with 12 years of experience, including Android (5+ years), Unity/C# (5+ years), C#/.NET (2 years) and full-cycle product development — from idea to scaling. Worked with both startups and global companies like Tecan (Swiss medtech) 
 
-**What drives me:**
-- Diving deep into complex technical problems — the kind that require a research-driven approach, attention to detail, and strong technical skills.
-- Seeing great minds work together to create amazing things.
-- Sharing knowledge — I love helping others learn new things, watching them grow, and growing alongside them.
-
----
+**What drives me:**  
+- Diving deep into complex technical problems — the kind that require a research-driven approach, attention to detail, and strong technical skills.  
+- Seeing great minds work together to create amazing things.  
+- Sharing knowledge — I love helping others learn new things, watching them grow, and growing alongside them.  
 
 ## Skills  
 
@@ -22,8 +20,6 @@ Android SDK, Kotlin, Java, Jetpack Compose, Kotlin Coroutines, Flow, Clean Archi
 **Other:**  
 Software Architecture, SOLID, Mentorship, Leadership, Public speaking
 C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure DevOps, SonarQube, Spring, Hibernate
-
----
 
 ## Experience  
 
@@ -37,8 +33,6 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 - Implemented a One-Time Password (OTP) authentication system, significantly improving security and user experience.  
 
 **Technologies:** C#, .NET, MVVM, WPF, Azure DevOps, SonarQube, MEF  
-
----
 
 ### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
