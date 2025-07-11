@@ -62,7 +62,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
  - Personal cloud (Java, Android, XMPP) 
  - Photo editor (Java, Android, OpenCV)
 
-**Technologies:** Android/Java, PostgreSQL, Spring, Hibernate, OpenCV,
+**Technologies:** Android, Java, PostgreSQL, Spring, Hibernate, OpenCV, C++
 
 ---
 
@@ -75,7 +75,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 - Guitar Tuner App – Implemented a Fast Fourier Transform (FFT) algorithm to detect the fundamental frequency of sound.
 - Guitar Simulator – Worked with audio samples, implemented delay and distortion effects.
 
-**Technologies:** Android/Java, Low-level Audio, JNI 
+**Technologies:** Android, Java, Low-level Audio, JNI, C 
 
 ---
 
@@ -89,6 +89,6 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ## Links
 
- - Latest public Android code written by me [GitHub](https://github.com/yourusername/repository)
+ - Latest public Android code written by me [GitHub](https://github.com/potalyukov/tree-database-app)
  - My most successful project in terms of downloads, with 70% of the code written by me [GooglePlay](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad)
  - Yandex Practicum – Modern Android Course certificate [PDF](https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing)
