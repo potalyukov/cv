@@ -105,5 +105,5 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 ## Links
 
  - Latest public Android code written by me [GitHub](https://github.com/yourusername/repository)
- - My most successful project in terms of downloads, with 95% of the code written by me [GooglePlay](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad)
+ - My most successful project in terms of downloads, with 70% of the code written by me [GooglePlay](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad)
  - Yandex Practicum – Modern Android Course certificate [PDF](https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing)
