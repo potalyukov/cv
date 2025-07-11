@@ -6,20 +6,20 @@
 Software developer with 10+ years of experience, including Android (5+ years), Unity/C#/.NET (5+ years), and full-cycle product development — from idea to scaling. Worked with both startups and global companies like Tecan (Swiss medtech) 
 
 **What drives me:**
-- Solving truly hard problems — the kind that need deep focus, attention to detail, and an exploratory mindset
-- Building cool things together with a team of skilled people
-- Sharing knowledge — I love helping others learn new things, watching them grow, and growing alongside them
+- Diving deep into complex technical problems — the kind that require a research-driven approach, attention to detail, and strong technical skills.
+- Seeing great minds work together to create amazing things.
+- Sharing knowledge — I love helping others learn new things, watching them grow, and growing alongside them.
 
 ---
 
 ## Skills  
 
 **Android:**  
-Android SDK, Kotlin, Java, Jetpack Compose, Kotlin Coroutines, Flow, Clean Architecture, MVVM, MVI, MVU, Dagger, Hilt, Gradle, Modularization, AAC, Room, SQLite, Firebase (databases, authorization, analytics), IAPs (Google Play, AppGallery), FMOD  
+Android SDK, Kotlin, Java, Jetpack Compose, Kotlin Coroutines, Flow, Clean Architecture, Dagger, Hilt, Gradle, Modularization, MVVM, MVI, MVU, AAC, Room, SQLite, PostgreSQL, Firebase (databases, authorization, analytics), Retrofit, okHttp, FMOD, AAudio, ExoPlayer, OpenCV, JNI, AIDL, IAPs (Google Play, AppGallery), AdMod, Ironsource, Appodeal
 
 **Other:**  
-Mentorship, Leadership
-C#, .NET, Unity, C/C++, Azure DevOps, SonarQube, TeamCity, GitLab, GitHub, Python, CI/CD, Git
+Software Architecture, SOLID, Mentorship, Leadership, Public speaking
+C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure DevOps, SonarQube, Spring, Hibernate
 
 ---
 
@@ -27,7 +27,7 @@ C#, .NET, Unity, C/C++, Azure DevOps, SonarQube, TeamCity, GitLab, GitHub, Pytho
 
 ### Tecan Group Ltd.  
 *Jan 2023 – Dec 2024 · 2 yrs*  
-- Designed and implemented a from-scratch software module for service center automation, reducing interaction time by 50% and eliminating human errors in data entry.  
+- Designed and implemented a from-scratch software module for service center automation, reducing interaction time by 50% and eliminating human errors in inputting data by hand.  
 - Designed the app’s architecture, reducing development time and delivering the project 20% ahead of schedule.  
 - Optimized legacy code, resulting in 17% faster application startup time.  
 - Improved test module builds, achieving a 5% reduction in project build time.  
@@ -53,7 +53,7 @@ C#, .NET, Unity, C/C++, Azure DevOps, SonarQube, TeamCity, GitLab, GitHub, Pytho
 
 ### Wise Shark Software  
 *Jan 2014 – Dec 2015 · 2 yrs*  
-**Technologies:** Android/Java, PostgreSQL, Spring, Hibernate  
+**Technologies:** Android/Java, PostgreSQL, Spring, Hibernate, OpenCV, 
 
 ---
 
@@ -66,7 +66,7 @@ C#, .NET, Unity, C/C++, Azure DevOps, SonarQube, TeamCity, GitLab, GitHub, Pytho
 ## Education  
 
 **Yandex Practicum – Modern Android Course**  
-*Dec 2024 – May 2025*  
+*Dec 2024 – Jun 2025*  
 
 **Novosibirsk State University – Faculty of Information Technology**  
 *2009 – 2013*
