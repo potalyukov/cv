@@ -1,6 +1,6 @@
 ## Nikita Potaliukov - CV Full version
 
-** Senior Software Engineer Android **  
+**Senior Software Engineer Android**  
 
 [potalyukov@gmail.com](mailto:potalyukov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nikita-potaliukov/) | [Telegram](https://t.me/potaliukov) | [GitHub](https://github.com/potalyukov) | +381628224629
 
@@ -11,6 +11,11 @@ Software developer with 12 years of experience, including Android (5+ years), Un
 - Seeing great minds work together to create amazing things.  
 - Sharing knowledge — I love helping others learn new things, watching them grow, and growing alongside them.  
 
+**Projects:**
+- [Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
+- [Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
+- [Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
+
 ## Skills  
 
 **Android:**  
@@ -19,6 +24,8 @@ Android SDK, Kotlin, Java, Jetpack Compose, Kotlin Coroutines, Flow, Clean Archi
 **Other:**  
 Software Architecture, SOLID, Mentorship, Leadership, Public speaking
 C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure DevOps, SonarQube, Spring, Hibernate
+
+---
 
 ## Experience  
 
@@ -44,11 +51,6 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 - Conducted 12 workshops on C# and algorithms, mentored 4 junior developers to mid-level positions.  
 - Trained the art department in Git version control, accelerating content integration 2–5x faster.  
 
-**Projects:**
-- [Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
-- [Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
-- [Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
-
 **Technologies:** Android, Java, Firebase (databases, authorization, analytics), JNI/C/C++, FMOD, Unity/C#, IAPs (Google Play, AppGallery)  
 
 ---
@@ -70,9 +72,10 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 ### Academ Media  
 *Jan 2013 – Jan 2014 · 1 yr*
 - Identified a bottleneck in the team’s efficiency, proposed a solution, and implemented it. This freed up 4 team members from manual app localization tasks, allowing them to focus on development. With a total team size of 12, this improvement increased overall productivity by 30%. Implemented the solution via a Python script.
+- Improved an existing piano keyboard (complex multitouch handling) that improved UX 
 
 **Projects:**
-- Music Synthesizer – Sound wave generation, synthesis, modulation, effects. Low-level audio buffer manipulation. Implemented a piano keyboard (complex multitouch handling).
+- Music Synthesizer – Sound wave generation, synthesis, modulation, effects. Low-level audio buffer manipulation. 
 - Guitar Tuner App – Implemented a Fast Fourier Transform (FFT) algorithm to detect the fundamental frequency of sound.
 - Guitar Simulator – Worked with audio samples, implemented delay and distortion effects.
 
