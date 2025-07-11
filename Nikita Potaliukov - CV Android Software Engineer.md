@@ -1,6 +1,8 @@
-# Nikita Potaliukov  
-**Software Engineer - Android**  
-[potalyukov@gmail.com](mailto:potalyukov@gmail.com) | [LinkedIn](#) | [Telegram](#) | [GitHub](#) | +381628224629  
+## Nikita Potaliukov  
+
+**Senior Software Engineer - Android**  
+
+[potalyukov@gmail.com](mailto:potalyukov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nikita-potaliukov/) | [Telegram](https://t.me/potaliukov) | [GitHub](https://github.com/potalyukov) | +381628224629
 
 
 Software developer with 10+ years of experience, including Android (5+ years), Unity/C#/.NET (5+ years), and full-cycle product development — from idea to scaling. Worked with both startups and global companies like Tecan (Swiss medtech) 
@@ -12,7 +14,7 @@ Software developer with 10+ years of experience, including Android (5+ years), U
 
 ---
 
-## Skills  
+### Skills  
 
 **Android:**  
 Android SDK, Kotlin, Java, Jetpack Compose, Kotlin Coroutines, Flow, Clean Architecture, Dagger, Hilt, Gradle, Modularization, MVVM, MVI, MVU, AAC, Room, SQLite, PostgreSQL, Firebase (databases, authorization, analytics), Retrofit, okHttp, FMOD, AAudio, ExoPlayer, OpenCV, JNI, AIDL, IAPs (Google Play, AppGallery), AdMod, Ironsource, Appodeal
@@ -23,9 +25,9 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-## Experience  
+### Experience  
 
-### Tecan Group Ltd.  
+#### Tecan Group Ltd.  
 *Jan 2023 – Dec 2024 · 2 yrs*  
 - Designed and implemented a from-scratch software module for service center automation, reducing interaction time by 50% and eliminating human errors in inputting data by hand.  
 - Designed the app’s architecture, reducing development time and delivering the project 20% ahead of schedule.  
@@ -38,7 +40,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-### mobiray  
+#### mobiray  
 *Jan 2016 – Dec 2022 · 7 yrs*  
 - Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title reached 30M+ installs.  
 - Implemented a high-load backend handling 400K requests per hour, ensuring stability and scalability.  
@@ -51,19 +53,34 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-### Wise Shark Software  
+#### Wise Shark Software  
 *Jan 2014 – Dec 2015 · 2 yrs*  
-**Technologies:** Android/Java, PostgreSQL, Spring, Hibernate, OpenCV, 
+
+**Projects:**
+ - Collecting and processing data from Google Play (Java, Spring Framework, PostgreSQL, Hibernate).
+ - Personal cloud (Java, Android, XMPP) 
+ - Photo editor (Java, Android, OpenCV)
+
+**Technologies:** Android/Java, PostgreSQL, Spring, Hibernate, OpenCV,
 
 ---
 
-### Academ Media  
-*Jan 2013 – Jan 2014 · 1 yr*  
-**Technologies:** Android/Java  
+#### Academ Media  
+*Jan 2013 – Jan 2014 · 1 yr*
+
+**Projects:**
+- Music Synthesizer – Sound wave generation, synthesis, modulation, effects. Low-level audio buffer manipulation. Implemented a piano keyboard (complex multitouch handling).
+- Guitar Tuner App – Implemented a Fast Fourier Transform (FFT) algorithm to detect the fundamental frequency of sound.
+- Guitar Simulator – Worked with audio samples, implemented delay and distortion effects.
+
+**Achievements:**
+- Identified a bottleneck in the team’s efficiency, proposed a solution, and implemented it. This freed up 4 team members from manual app localization tasks, allowing them to focus on development. With a total team size of 12, this improvement increased overall productivity by 30%. Implemented the solution via a Python script.
+
+**Technologies:** Android/Java, Low-level Audio, JNI 
 
 ---
 
-## Education  
+### Education  
 
 **Yandex Practicum – Modern Android Course**  
 *Dec 2024 – Jun 2025*  
