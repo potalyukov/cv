@@ -1,4 +1,4 @@
-## Nikita Potaliukov - CV Full version
+## Nikita Potaliukov - CV Full version [[Download PDF]](https://drive.google.com/file/d/1ELZO2qb8fs7sRmfCJ_UZCWOhhQaUan_O/view?usp=sharing)
 
 **Senior Software Engineer Android**  
 
