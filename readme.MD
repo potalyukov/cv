@@ -1,9 +1,8 @@
-## Nikita Potaliukov  
+## Nikita Potaliukov - CV Full version
 
-**Senior Software Engineer - Android**  
+** Senior Software Engineer Android **  
 
 [potalyukov@gmail.com](mailto:potalyukov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nikita-potaliukov/) | [Telegram](https://t.me/potaliukov) | [GitHub](https://github.com/potalyukov) | +381628224629
-
 
 Software developer with 12 years of experience, including Android (5+ years), Unity/C# (5+ years), C#/.NET (2 years) and full-cycle product development — from idea to scaling. Worked with both startups and global companies like Tecan (Swiss medtech) 
 
@@ -33,6 +32,8 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 - Implemented a One-Time Password (OTP) authentication system, significantly improving security and user experience.  
 
 **Technologies:** C#, .NET, MVVM, WPF, Azure DevOps, SonarQube, MEF  
+
+---
 
 ### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
@@ -82,9 +83,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 ## Education  
 
  - Yandex Practicum – Modern Android Course [PDF](https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing). *Dec 2024 – Jun 2025* 
-
  - Novosibirsk State University – Faculty of Information Technology. *2009 – 2013*
-
  - Novosibirsk State University – Higher College of Informatics. *2007 – 2009*
 
 ## Links
