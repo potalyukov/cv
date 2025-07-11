@@ -87,7 +87,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ## Education  
 
- - Yandex Practicum – Modern Android Course [PDF]. (https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing). *Dec 2024 – Jun 2025* 
+ - Yandex Practicum – Modern Android Course [PDF](https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing). *Dec 2024 – Jun 2025* 
 
  - Novosibirsk State University – Faculty of Information Technology. *2009 – 2013*
 
