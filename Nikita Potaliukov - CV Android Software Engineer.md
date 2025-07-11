@@ -42,6 +42,14 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 #### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
+
+**Projects:**
+[Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
+[Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
+[Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
+
+
+**Achievements:**
 - Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title reached 30M+ installs.  
 - Implemented a high-load backend handling 400K requests per hour, ensuring stability and scalability.  
 - Optimized Firebase Firestore data structure and queries, reducing costs by 19%.  
@@ -60,6 +68,10 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
  - Collecting and processing data from Google Play (Java, Spring Framework, PostgreSQL, Hibernate).
  - Personal cloud (Java, Android, XMPP) 
  - Photo editor (Java, Android, OpenCV)
+
+ **Achievements:**
+ - Optimized database queries, improving performance by ~5x.
+ - Developed a peer-to-peer file-sharing solution, , eliminating the need for costly servers.
 
 **Technologies:** Android/Java, PostgreSQL, Spring, Hibernate, OpenCV,
 
