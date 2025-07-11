@@ -14,7 +14,7 @@ Software developer with 12 years of experience, including Android (5+ years), Un
 
 ---
 
-### Skills  
+## Skills  
 
 **Android:**  
 Android SDK, Kotlin, Java, Jetpack Compose, Kotlin Coroutines, Flow, Clean Architecture, Dagger, Hilt, Gradle, Modularization, MVVM, MVI, MVU, AAC, Room, SQLite, PostgreSQL, Firebase (databases, authorization, analytics), Retrofit, okHttp, FMOD, AAudio, ExoPlayer, OpenCV, JNI, AIDL, IAPs (Google Play, AppGallery), AdMod, Ironsource, Appodeal
@@ -25,9 +25,9 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-### Experience  
+## Experience  
 
-#### [Tecan Group Ltd.](https://tecan.com/)
+### [Tecan Group Ltd.](https://tecan.com/)
 *Jan 2023 – Dec 2024 · 2 yrs*  
 - Designed and implemented a from-scratch software module for service center automation, reducing interaction time by 50% and eliminating human errors in inputting data by hand.  
 - Designed the app’s architecture, reducing development time and delivering the project 20% ahead of schedule.  
@@ -40,14 +40,13 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-#### [mobiray](https://mobiray.com) 
+### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
 
 **Projects:**
 - [Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
 - [Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
 - [Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
-
 
 **Achievements:**
 - Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title reached 30M+ installs.  
@@ -57,11 +56,11 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 - Conducted 12 workshops on C# and algorithms, mentored 4 junior developers to mid-level positions.  
 - Trained the art department in Git version control, accelerating content integration 2–5x faster.  
 
-**Technologies:** Android/Java, Firebase (databases, authorization, analytics), JNI/C/C++, FMOD, Unity/C#, IAPs (Google Play, AppGallery)  
+**Technologies:** Android, Java, Firebase (databases, authorization, analytics), JNI/C/C++, FMOD, Unity/C#, IAPs (Google Play, AppGallery)  
 
 ---
 
-#### [Wise Shark Software](https://sites.google.com/view/wisesharksoftware)
+### [Wise Shark Software](https://sites.google.com/view/wisesharksoftware)
 *Jan 2014 – Dec 2015 · 2 yrs*  
 
 **Projects:**
@@ -77,7 +76,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-#### Academ Media  
+### Academ Media  
 *Jan 2013 – Jan 2014 · 1 yr*
 
 **Projects:**
@@ -92,9 +91,9 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-### Education  
+## Education  
 
-**Yandex Practicum – Modern Android Course**  
+**Yandex Practicum – Modern Android Course** [PDF](https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing)
 *Dec 2024 – Jun 2025*  
 
 **Novosibirsk State University – Faculty of Information Technology**  
@@ -102,3 +101,9 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 **Novosibirsk State University – Higher College of Informatics**  
 *2007 – 2009*
+
+## Links
+
+ - Latest public Android code written by me [GitHub](https://github.com/yourusername/repository)
+ - My most successful project in terms of downloads, with 95% of the code written by me [GooglePlay](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad)
+ - Yandex Practicum – Modern Android Course certificate [PDF](https://drive.google.com/file/d/1f4m-DIqxjWWH4g0k_lgrBL34XxJDKX3Y/view?usp=sharing)
