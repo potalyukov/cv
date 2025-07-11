@@ -44,9 +44,9 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 *Jan 2016 – Dec 2022 · 7 yrs*  
 
 **Projects:**
-[Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
-[Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
-[Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
+- [Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
+- [Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
+- [Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
 
 
 **Achievements:**
