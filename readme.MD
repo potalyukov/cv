@@ -11,7 +11,7 @@ Software developer with 12 years of experience, including Android (5+ years), Un
 - Seeing great minds work together to create amazing things.  
 - Sharing knowledge — I love helping others learn new things, watching them grow, and growing alongside them.  
 
-**Projects:**
+**Personal projects:**
 - [Dj Loop Pads - 30M+ downloads](https://play.google.com/store/apps/details?id=com.mobiray.djlaunchpad) 
 - [Coloring pages - 8M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.adult) 
 - [Pixel Art Coloring - 3M+ downloads](https://play.google.com/store/apps/details?id=com.twodtwob.coloring.pixels) 
