@@ -5,7 +5,7 @@
 [potalyukov@gmail.com](mailto:potalyukov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nikita-potaliukov/) | [Telegram](https://t.me/potaliukov) | [GitHub](https://github.com/potalyukov) | +381628224629
 
 
-Software developer with 10+ years of experience, including Android (5+ years), Unity/C#/.NET (5+ years), and full-cycle product development — from idea to scaling. Worked with both startups and global companies like Tecan (Swiss medtech) 
+Software developer with 12 years of experience, including Android (5+ years), Unity/C# (5+ years), C#/.NET (2 years) and full-cycle product development — from idea to scaling. Worked with both startups and global companies like Tecan (Swiss medtech) 
 
 **What drives me:**
 - Diving deep into complex technical problems — the kind that require a research-driven approach, attention to detail, and strong technical skills.
@@ -27,7 +27,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ### Experience  
 
-#### Tecan Group Ltd.  
+#### [Tecan Group Ltd.](https://tecan.com/)
 *Jan 2023 – Dec 2024 · 2 yrs*  
 - Designed and implemented a from-scratch software module for service center automation, reducing interaction time by 50% and eliminating human errors in inputting data by hand.  
 - Designed the app’s architecture, reducing development time and delivering the project 20% ahead of schedule.  
@@ -40,7 +40,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-#### mobiray  
+#### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
 - Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title reached 30M+ installs.  
 - Implemented a high-load backend handling 400K requests per hour, ensuring stability and scalability.  
@@ -53,7 +53,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ---
 
-#### Wise Shark Software  
+#### [Wise Shark Software](https://sites.google.com/view/wisesharksoftware)
 *Jan 2014 – Dec 2015 · 2 yrs*  
 
 **Projects:**
