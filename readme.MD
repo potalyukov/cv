@@ -33,7 +33,7 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 *Jan 2023 – Dec 2024 · 2 yrs*  
 - Designed and implemented a from-scratch software module for service center automation, reducing interaction time by 50% and eliminating human errors in inputting data by hand.  
 - Designed the app’s architecture, reducing development time and delivering the project 20% ahead of schedule.  
-- Optimized legacy code, resulting in 17% faster application startup time.  
+- Optimized legacy code, resulting in 15% faster application startup time.  
 - Improved test module builds, achieving a 5% reduction in project build time.  
 - Developed a config file validation system using hashing, enabling automatic change detection and enhancing software security.  
 - Implemented a One-Time Password (OTP) authentication system, significantly improving security and user experience.  
@@ -44,21 +44,22 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
-- Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title reached 30M+ installs.  
+- Increased Dj Loop Pads' average rating from 4.35 to 4.78 by reworking UX alongside designers and analysts.
+- Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title Dj Loop Pads has reached 30M+ installs.  
 - Implemented a high-load backend handling 400K requests per hour, ensuring stability and scalability.  
-- Optimized Firebase Firestore data structure and queries, reducing costs by 19%.  
+- Optimized Firebase Firestore data structure and queries, reducing costs by 20%.  
 - Implemented a notification system, increasing user retention from 25% to 32%.  
 - Conducted 12 workshops on C# and algorithms, mentored 4 junior developers to mid-level positions.  
 - Trained the art department in Git version control, accelerating content integration 2–5x faster.  
 
-**Technologies:** Android, Java, Firebase (databases, authorization, analytics), JNI/C/C++, FMOD, Unity/C#, IAPs (Google Play, AppGallery)  
+**Technologies:** Android, Java, Firebase (databases, authorization, analytics, push notifications), JNI/C/C++, FMOD, Unity/C#, IAPs (Google Play, AppGallery)  
 
 ---
 
 ### [Wise Shark Software](https://sites.google.com/view/wisesharksoftware)
 *Jan 2014 – Dec 2015 · 2 yrs*  
  - Optimized database queries, improving performance by ~5x.
- - Developed a peer-to-peer file-sharing solution, , eliminating the need for costly servers.
+ - Developed a peer-to-peer file-sharing solution, eliminating the need for costly servers.
 
 **Projects:**
  - Collecting and processing data from Google Play (Java, Spring Framework, PostgreSQL, Hibernate).
