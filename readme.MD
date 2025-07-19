@@ -44,13 +44,14 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 
 ### [mobiray](https://mobiray.com) 
 *Jan 2016 – Dec 2022 · 7 yrs*  
-- Increased Dj Loop Pads' average rating from 4.35 to 4.78 by reworking UX alongside designers and analysts.
 - Successfully shipped 15+ products from scratch to Google Play and AppGallery, taking them through all stages (design, development, launch) – top title Dj Loop Pads has reached 30M+ installs.  
+- Conducted 12 workshops on C# and algorithms 
+- Mentored 4 junior developers to mid-level positions.  
+- Implemented a notification system, increasing user retention from 25% to 32%.  
+- Increased Dj Loop Pads' average rating from 4.35 to 4.78 by reworking UX alongside designers and analysts.  
 - Implemented a high-load backend handling 400K requests per hour, ensuring stability and scalability.  
 - Optimized Firebase Firestore data structure and queries, reducing costs by 20%.  
-- Implemented a notification system, increasing user retention from 25% to 32%.  
-- Conducted 12 workshops on C# and algorithms, mentored 4 junior developers to mid-level positions.  
-- Trained the art department in Git version control, accelerating content integration 2–5x faster.  
+- Trained the art department in Git version control, reducing content integration costs by 30-40%.
 
 **Technologies:** Android, Java, Firebase (databases, authorization, analytics, push notifications), JNI/C/C++, FMOD, Unity/C#, IAPs (Google Play, AppGallery)  
 
