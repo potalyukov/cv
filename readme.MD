@@ -32,6 +32,9 @@ C#, C/C++, .NET, Unity, Python, Git, GitHub Actions, Gitlab, TeamCity, Azure Dev
 *Dec 2025 - present*
 - Created the whole app architecture for a Kotlin Multiplatform project
 - Connected Low-Level C++ code to the KMP project.
+- Implemented a notification system, increasing user retention from 25% to 32%.
+- Increased Dj Loop Pads' average rating from 4.35 to 4.78 by reworking UX alongside designers and analysts.
+
 
 **Technologies:** Kotlin Multiplatform, Compose Multiplatform, Koin, Coroutines, Flow, Clean Architecture, Gradle, Modularization, MVVM, SQLite, SQLDelight, FMOD, JNI
 
